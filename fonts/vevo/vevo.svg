@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-5: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Thu Sep  5 11:34:57 2013
+ By Austin Mayer
+Created by Austin Mayer with FontForge 2.0 (http://fontforge.sf.net)
+</metadata>
+<defs>
+<font id="fontcustom" horiz-adv-x="1030" >
+  <font-face 
+    font-family="fontcustom"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="15 -66.7277 1015 800.011"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+F100-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+d="M15 798.323h289.016c35.3477 -143.587 70.8789 -287.914 107.841 -438.036c8.76758 10.5391 14.2705 15.998 18.4395 22.3428c67.0586 102.065 135.028 203.555 200.499 306.639c46.374 73.0117 110.928 110.08 196.856 110.567
+c61.0498 0.347656 122.105 0.0693359 187.349 0.0693359c-4.77637 -9.55176 -7.54688 -16.8711 -11.7471 -23.2539c-160.451 -243.526 -320.574 -487.27 -482.215 -730.006c-18.9268 -28.4209 -43.1348 -55.4189 -70.3164 -75.8701
+c-97.7197 -73.5049 -216.029 -35.1396 -250.688 81.709c-23.0068 77.5781 -39.7822 156.998 -59.335 235.602c-39.8584 160.229 -79.7168 320.473 -119.506 480.729c-2.24512 9.03906 -3.8457 18.2373 -6.19238 29.5088z" />
+  </font>
+</defs></svg>

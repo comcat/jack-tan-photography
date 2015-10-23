@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NeuzeitGroBla';
+  src: url('Neuzeit-Grotesk-Black.eot'); /* IE9 Compat Modes */
+  src: url('Neuzeit-Grotesk-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Neuzeit-Grotesk-Black.woff') format('woff'), /* Modern Browsers */
+       url('Neuzeit-Grotesk-Black.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Neuzeit-Grotesk-Black.svg#23af155783c667c9b3c267999f1f0b9a') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
