@@ -22,7 +22,7 @@
 	<script type="text/javascript" src="/gallery/resources/colorbox/jquery.colorbox.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
-			$("a[rel='colorbox']").colorbox({maxWidth: "90%", maxHeight: "90%", opacity: ".5", fixed: true});
+			$("a[rel='colorbox']").colorbox({maxWidth: "96%", maxHeight: "96%", opacity: ".5", fixed: true});
 		});
 	</script>
 </head>
