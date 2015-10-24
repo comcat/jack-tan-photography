@@ -10,11 +10,11 @@
 	<title>Aerial Working</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
-	<script src="/js/modernizr-2.6.2.min.js"></script>
-	<script src="/js/jquery/1.10.2/jquery.min.js"></script>
+	<script src="/ui/js/modernizr-2.6.2.min.js"></script>
+	<script src="/ui/js/jquery/1.10.2/jquery.min.js"></script>
 
-	<link rel='stylesheet' id='jquery-ui-smoothness-css'  href='/css/jquery-ui.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='roots_app-css'  href='/css/screen.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='jquery-ui-smoothness-css'  href='/ui/css/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='roots_app-css'  href='/ui/css/screen.css' type='text/css' media='all' />
 
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
@@ -26,7 +26,7 @@
 		});
 	</script>
 
-	<link rel="shortcut icon" href="/img/aerial-16.ico">
+	<link rel="shortcut icon" href="/ui/img/aerial-16.ico">
 </head>
 
 <body class="home page page-id-5 page-template-default page-home">
@@ -96,17 +96,17 @@
 <![endif]-->
 
 <!--
-<script type='text/javascript' src='/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='/js/jquery/ui/button.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='/js/jquery/ui/position.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='/ui/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
 -->
-<script type='text/javascript' src='/js/plugins.min.js'></script>
-<script type='text/javascript' src='/js/init.js'></script>
+<script type='text/javascript' src='/ui/js/plugins.min.js'></script>
+<script type='text/javascript' src='/ui/js/init.js'></script>
 
 </body>
 </html>
