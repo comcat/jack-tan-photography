@@ -25,6 +25,8 @@
 			$("a[rel='colorbox']").colorbox({maxWidth: "96%", maxHeight: "96%", opacity: ".5", fixed: true});
 		});
 	</script>
+
+	<link rel="shortcut icon" href="/img/aerial-16.ico">
 </head>
 
 <body class="home page page-id-5 page-template-default page-home">
@@ -35,6 +37,7 @@
   <nav id="nav-main" role="navigation">
     <a class="nav-toggle" href="#nav"><div class="burg"></div></a>
     <ul id="menu-primary-navigation" class="nav is-uppercase nav-pills">
+		<li class="menu-artists"><a href="/">Home</a></li>
 		<li class="menu-artists"><a href="/gallery">Gallery</a></li>
 		<li class="menu-about"><a href="/about.html">About</a></li>
 		<li class="ss-icon menu-%ef%98%90"><a title="Visit our Facebook" href="https://www.facebook.com/AerialWorking">Facebook</a></li>
