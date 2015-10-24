@@ -5,26 +5,20 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="en-US">
 <head>
-
 	<meta charset="utf-8">
-	<title>Aerial Working</title>
+	<title>About Aerial</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
 	<script src="/ui/js/modernizr-2.6.2.min.js"></script>
-	<script src="/ui/js/jquery/1.10.2/jquery.min.js"></script>
+	<script src="/ui/js/jquery/1.9.1/jquery.min.js"></script>
+
+	<script>window.jQuery || document.write('<script src="/ui/js/jquery/1.9.1/jquery.min.js"><\/script>')</script>
 
 	<link rel='stylesheet' id='jquery-ui-smoothness-css'  href='/ui/css/jquery-ui.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='roots_app-css'  href='/ui/css/screen.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='/ui/css/jackslab.css' type='text/css' media='all' />
 
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-
-	<link rel="stylesheet" type="text/css" href="/gallery/resources/colorbox/3/colorbox.css" />
-	<script type="text/javascript" src="/gallery/resources/colorbox/jquery.colorbox.js"></script>
-	<script type="text/javascript">
-		$(document).ready(function(){
-			$("a[rel='colorbox']").colorbox({maxWidth: "96%", maxHeight: "96%", opacity: ".5", fixed: true});
-		});
-	</script>
 
 	<link rel="shortcut icon" href="/ui/img/aerial-16.ico">
 </head>
@@ -49,41 +43,16 @@
 
 <div id="wrap" role="document">
 <div id="content">
-  <div id="main" role="main"></div>
-</div><!-- /#content -->
-</div><!-- /#wrap -->
+	<div id="main" role="main"></div>
+</div>
+</div>
 
-<?php
+<div id="about">
+<img src="/about/jacktan-bw.jpg" >
+<div class="about-page">
+</div>
+</div>
 
-    // Include the UberGallery class
-    include('resources/UberGallery.php');
-
-    // Initialize the UberGallery object
-    $gallery = new UberGallery();
-
-    // Initialize the gallery array
-    $galleryArray = $gallery->readImageDirectory('gallery-images');
-
-    // Define theme path
-    if (!defined('THEMEPATH')) {
-        define('THEMEPATH', $gallery->getThemePath());
-    }
-
-    // Set path to theme index
-    $themeIndex = $gallery->getThemePath(true) . '/embeded.php';
-
-    // Initialize the theme
-    if (file_exists($themeIndex)) {
-        include($themeIndex);
-    } else {
-        die('ERROR: Failed to initialize theme');
-    }
-
-?>
-
-<footer id="content-info" class="container" role="contentinfo">
-    <p>&copy; 2015 Aerial Working Studio</p>
-</footer>
 
 <!--[if lt IE 9 ]>
 	<div class="shit-browser-overlay">
