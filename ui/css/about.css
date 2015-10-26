@@ -91,11 +91,13 @@
 }
 
 .about-wrap {
+	position: absolute;
+	top: 50%;
+	margin-top: -13em;
 	margin-left: 10%;
 	margin-right: 9%;
-	margin-top: 38.2%;
 	padding-right: 0.5em;
-	height: 25em;
+	height: 26em;
 	overflow-y: auto;
 }
 
