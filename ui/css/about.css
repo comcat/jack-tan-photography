@@ -114,3 +114,18 @@
 	line-height: 1.2em;
 	margin:0;color:#fff;
 }
+
+.jspVerticalBar
+{
+	width: 8px;
+}
+
+.jspTrack
+{
+	background: #343;
+}
+
+.jspDrag
+{
+	background: #cdc;
+}
