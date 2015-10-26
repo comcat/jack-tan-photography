@@ -91,9 +91,12 @@
 }
 
 .about-wrap {
-	margin-left: 4em;
-	margin-right: 3em;
-	margin-top: 12em
+	margin-left: 10%;
+	margin-right: 9%;
+	margin-top: 38.2%;
+	padding-right: 0.5em;
+	height: 25em;
+	overflow-y: auto;
 }
 
 .about-title {
