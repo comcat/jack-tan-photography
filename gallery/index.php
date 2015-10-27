@@ -5,9 +5,9 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="en-US">
 <head>
-
 	<meta charset="utf-8">
-	<title>Aerial Working</title>
+	<meta name="description" content="gump, griff, aerial working, AerialWorking, 高空工作室, 高空艺术, 甘薯, 甘叔, 老艺术家, 攀岩艺术">
+	<title>Aerial Working Gallery</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
 	<script src="/ui/js/modernizr-2.6.2.min.js"></script>
