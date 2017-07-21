@@ -26,7 +26,7 @@
 		});
 	</script>
 
-	<link rel="shortcut icon" href="/ui/img/aerial-16.ico">
+	<link rel="shortcut icon" href="/ui/img/logo.ico">
 </head>
 
 <body class="home page page-id-5 page-template-default page-home">
