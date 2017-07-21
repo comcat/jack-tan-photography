@@ -6,8 +6,8 @@
 <html class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="gump, griff, aerial working, AerialWorking, 高空工作室, 高空艺术, 甘薯, 甘叔, 老艺术家, 攀岩艺术">
-	<title>Aerial Working Gallery</title>
+	<meta name="description" content="Jack Tan Photography, jack tan photography, jack, comcat, Jack, 攀岩摄影, 攀岩记录, 攀岩艺术">
+	<title>Jack Tan Photography</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
 	<script src="/ui/js/modernizr-2.6.2.min.js"></script>
@@ -32,21 +32,19 @@
 <body class="home page page-id-5 page-template-default page-home">
 <header id="banner" role="banner">
   <div class="brand-wrap">
-    <a class="brand hide-text" href="/">Aerial Working</a>
+    <a class="brand hide-text" href="/">Jack Tan Photography</a>
   </div>
-<!--
   <nav id="nav-main" role="navigation">
     <a class="nav-toggle" href="#nav"><div class="burg"></div></a>
     <ul id="menu-primary-navigation" class="nav is-uppercase nav-pills">
 		<li class="menu-artists"><a href="/">Home</a></li>
 		<li class="menu-artists"><a href="/gallery">Gallery</a></li>
 		<li class="menu-about"><a href="/about">About</a></li>
-		<li class="ss-icon menu-%ef%98%90"><a title="Visit our Facebook" href="https://www.facebook.com/AerialWorking">Facebook</a></li>
-		<li class="ss-icon menu-%ef%98%91"><a title="Follow us on Twitter" href="https://weibo.com/AerialWorking"></a></li>
-		<li class="menu-instagram"><a href="http://aerialworking.tumblr.com/">Tumblr</a></li>
+		<li class="ss-icon menu-%ef%98%90"><a title="Visit our Facebook" href="https://www.facebook.com/comcat">Facebook</a></li>
+		<li class="ss-icon menu-%ef%98%91"><a title="Follow us on Twitter" href="https://weibo.com/comcat"></a></li>
+		<li class="menu-instagram"><a href="http://500px.com/comcat">500px</a></li>
 	</ul>
   </nav>
--->
 </header>
 
 <div id="wrap" role="document">
@@ -84,7 +82,7 @@
 ?>
 
 <footer id="content-info" class="container" role="contentinfo">
-    <p>&copy; 2015 Aerial Working Studio</p>
+    <p>&copy; 2015 Jack Tan Photography</p>
 </footer>
 
 <!--[if lt IE 9 ]>
