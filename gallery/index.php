@@ -34,6 +34,7 @@
   <div class="brand-wrap">
     <a class="brand hide-text" href="/">Aerial Working</a>
   </div>
+<!--
   <nav id="nav-main" role="navigation">
     <a class="nav-toggle" href="#nav"><div class="burg"></div></a>
     <ul id="menu-primary-navigation" class="nav is-uppercase nav-pills">
@@ -45,6 +46,7 @@
 		<li class="menu-instagram"><a href="http://aerialworking.tumblr.com/">Tumblr</a></li>
 	</ul>
   </nav>
+-->
 </header>
 
 <div id="wrap" role="document">
